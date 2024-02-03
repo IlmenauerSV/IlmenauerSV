@@ -22,7 +22,7 @@ Der Ilmenauer Schachverein ist seit der Gründung ein Zentrum für Schachfreunde
 
 Hier auf GitHub teilen wir Code und Projekte, die im Zusammenhang mit unserem Verein stehen. Dazu gehören:
 
-- Websiten
+- Webseiten
 - Software zur Turnierorganisation
 - Lernmaterialien und Ressourcen für Mitglieder
 - Projekte zur Förderung von Schach in der Bildung
