@@ -41,7 +41,7 @@ Als gemeinnütziger Verein sind wir dankbar für jede Form der Unterstützung, s
 
 ## Lizenz
 
-Sofern nicht anders angegeben, sind die Projekte und Materialien in diesem Repository unter einer MIT lizenziert. Details finden Sie in der Datei LICENSE.
+Sofern nicht anders angegeben, sind die Projekte und Materialien in diesem Repository unter einer MIT lizenziert. Details finden Sie in der [Lizenz](LICENSE) Datei.
 
 ---
 
